@@ -97,14 +97,14 @@
     /* color-1(#24A89B)
      * color-2(#eddea4)
      */
-    --color-1                      : hsla(174, 65%, 40%, 1);
-    --color-2                      : hsla(48, 67%, 79%, 1);
+    --color-1                      : #0275d8;
+    --color-2                      : #0275d8;
 
     /* theme color variations
      */
-    --color-1-lighter              : hsla(174, 65%, 60%, 1);
-    --color-1-light                : hsla(174, 65%, 50%, 1);
-    --color-1-dark                 : hsla(174, 65%, 35%, 1);
+    --color-1-lighter              : #0275d8;
+    --color-1-light                : #0275d8;
+    --color-1-dark                 : #0275d8;
     --color-1-darker               : hsla(174, 65%, 20%, 1);
     --color-2-lighter              : hsla(48, 67%, 99%, 1);
     --color-2-light                : hsla(48, 67%, 89%, 1);
@@ -182,7 +182,7 @@
     /* others
      */
     --color-body                   : var(--color-gray-12);
-    --color-border                 : rgba(255, 255, 255, .05);
+    --color-border                 : rgba(219, 231, 41, 0.05);
     --border-radius                : 3px;
 }
 
